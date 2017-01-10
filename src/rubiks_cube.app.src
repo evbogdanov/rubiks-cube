@@ -1,0 +1,6 @@
+{application, rubiks_cube,
+ [{description, "Erlang program which solves Rubik's cube."},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {applications, [kernel, stdlib]},
+  {env, []}]}.
